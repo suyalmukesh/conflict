@@ -11,5 +11,11 @@ Well , Paru pulled this file to commit his changes
 Again Harshit here ...Now web will play with conflicts
 
 
+
 singham arrived
 
+||||||| merged common ancestors
+
+Narshima arrived 
+
+>>>>>>> 489f03058582cd6cf6b8cc3ebf212cf6fd8b4ee3

@@ -18,6 +18,12 @@ singham arrived
 
 Narshima arrived 
 
->>>>>>> 489f03058582cd6cf6b8cc3ebf212cf6fd8b4ee3
+
+
 
 Again Paru's turn here - Time 17:17 - Paru
+||||||| merged common ancestors
+
+=======
+Adding line + 1 at 17:16 - Harshit 
+>>>>>>> d88729d9c24ac2425dae0a15c0ef3cc56a3d5652

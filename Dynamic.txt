@@ -6,4 +6,5 @@ set hive.exec.max.created.files = 100000000;
 
 This is just for PRACTICE
 
+Twinkle Twinkle little star !
 

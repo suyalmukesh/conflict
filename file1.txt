@@ -2,5 +2,11 @@ Hello - Harshit Committing here
 
 Well , Paru pulled this file to commit his changes 
 
-Paru again here ... Me too playing with conflicts
+
+
+
+||||||| merged common ancestors
+
+
+Again Harshit here ...Now web will play with conflicts
 
